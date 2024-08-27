@@ -16,35 +16,32 @@ HiveIn is a web application designed to manage project tasks efficiently, provid
 
 ### Installation
 1. Clone the repository:
-   ```bash
    git clone https://github.com/yourusername/hivein.git
-Navigate into the project directory:
-bash
-Copy code
-  cd hivein
-Install dependencies:
+## Navigate into the project directory:
+cd hivein
+##Install dependencies:
   npm install
-Start the development server:
+## Start the development server:
   npm start
 
 
-Usage
+### Usage
 
 Open your browser and navigate to http://localhost:3000.
 
-Deployment
+### Deployment
 To deploy this project to a live environment, follow these steps:
 
-Build the project for production:
+## Build the project for production:
 
 npm run build
-Deploy the build directory to your preferred hosting provider.
+## Deploy the build directory to your preferred hosting provider.
 
 
-Contact
+### Contact
 If you have any questions, feel free to reach out to saidani.smail.pro@gmail.com.
 
-Acknowledgments
+### Acknowledgments
 React
 Firebase
 Bootstrap
